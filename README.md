@@ -1,5 +1,5 @@
 # combo_forms
-Registration and login forms combined.
+Registration and login forms combined.            
 ![Registration form screenshot]()              
 ![Login form screenshot]()            
 ![Mobile screenshot]()                
