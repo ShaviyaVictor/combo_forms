@@ -38,3 +38,12 @@ h6 span{
   text-transform: uppercase;  
   font-weight: 700;  
 }
+/* global container styles */
+.section{  
+  position: relative;  
+  width: 100%;  
+  display: block;  
+}  
+.full-height{  
+  min-height: 100vh;  
+}
