@@ -129,6 +129,10 @@ h6 span {
 .card-back {  
   transform: rotateY(180deg);  
 }
+/* styles for the flip-over */
+.checkbox:checked ~ .card-3d-wrap .card-3d-wrapper {  
+  transform: rotateY(180deg);  
+}
 
 
 
