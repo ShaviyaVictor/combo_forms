@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Poppins:400,500,600,700,800,900');
 @import url('https://unicons.iconscout.com/release/v2.1.9/css/unicons.css');
 /* global styles for the body */
-body{  
+body {  
   font-family: 'Poppins', sans-serif;  
   font-weight: 300;  
   font-size: 15px;  
@@ -33,17 +33,55 @@ p {
 h4 {  
   font-weight: 600;  
 }  
-h6 span{  
+h6 span {  
   padding: 0 20px;  
   text-transform: uppercase;  
   font-weight: 700;  
 }
 /* global container styles */
-.section{  
+.section {  
   position: relative;  
   width: 100%;  
   display: block;  
 }  
-.full-height{  
+.full-height {  
   min-height: 100vh;  
 }
+/* checkbox styles */
+[type="checkbox"]:checked, [type="checkbox"]:not(:checked) {  
+  position: absolute;  
+  left: -9999px;  
+}
+.checkbox:checked + label, .checkbox:not(:checked) + label {  
+  position: relative;  
+  display: block;  
+  text-align: center;  
+  width: 60px;  
+  height: 16px;  
+  border-radius: 8px;  
+  padding: 0;  
+  margin: 10px auto;  
+  cursor: pointer;  
+  background-color: #ffeba7;  
+}
+.checkbox:checked + label:before, .checkbox:not(:checked) + label:before {  
+  position: absolute;  
+  display: block;  
+  width: 36px;  
+  height: 36px;  
+  border-radius: 50%;  
+  color: #ffeba7;  
+  background-color: #102770;  
+  font-family: 'unicons';  
+  content: '\eb4f';  
+  z-index: 20;  
+  top: -10px;  
+  left: -10px;  
+  line-height: 36px;  
+  text-align: center;  
+  font-size: 25px;  
+  transition: all 0.5s ease;  
+}
+.checkbox:checked + label:before {  
+  transform: translateX(44px) rotate(-270deg);  
+ }
