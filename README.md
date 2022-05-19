@@ -1,7 +1,7 @@
 # combo_forms
 Registration and login forms combined.            
-![Registration form screenshot](https://github.com/ShaviyaVictor/combo_forms/blob/main/asset/RegisterScreenshot.png)              
-![Login form screenshot](https://github.com/ShaviyaVictor/combo_forms/blob/main/asset/LoginScreenshot.png)            
+![Registration form screenshot](https://github.com/ShaviyaVictor/combo_forms/blob/main/asset/register.png)              
+![Login form screenshot](https://github.com/ShaviyaVictor/combo_forms/blob/main/asset/login.png)            
 ![Mobile screenshot]()                
 
 ## Built With
