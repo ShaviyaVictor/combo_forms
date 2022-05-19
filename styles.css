@@ -133,6 +133,23 @@ h6 span {
 .checkbox:checked ~ .card-3d-wrap .card-3d-wrapper {  
   transform: rotateY(180deg);  
 }
+/* form styles */
+.center-wrap{  
+  position: absolute;  
+  width: 100%;  
+  padding: 0 35px;  
+  top: 50%;  
+  left: 0;  
+  transform: translate3d(0, -50%, 35px) perspective(100px);  
+  z-index: 20;  
+  display: block;  
+}  
+ .form-group{   
+  position: relative;  
+  display: block;  
+   margin: 0;  
+   padding: 0;  
+}
 
 
 
