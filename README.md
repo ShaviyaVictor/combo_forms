@@ -11,7 +11,7 @@ Registration and login forms combined.
 
 ## License
 
-This project is licensed under the [MIT License](#).      
+This project is licensed under the [MIT License](https://github.com/ShaviyaVictor/toggleSwitch/blob/main/LICENSE).     
 
 ## Acknowledgments
 
