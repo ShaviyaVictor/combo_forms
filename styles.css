@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Poppins:400,500,600,700,800,900');
 @import url('https://unicons.iconscout.com/release/v2.1.9/css/unicons.css');
+/* global styles for the body */
 body{  
   font-family: 'Poppins', sans-serif;  
   font-weight: 300;  
@@ -9,6 +10,7 @@ body{
   background-color: #1f2029;  
   overflow-x: hidden; 
 }
+/* link styles */
 a {  
   cursor: pointer;  
   transition: all 200ms linear;  
@@ -21,4 +23,18 @@ a:hover {
 }  
 .link:hover {  
   color: #ffeba7;  
+}
+/* paragraph and heading styles */
+p {  
+  font-weight: 500;  
+  font-size: 14px;  
+  line-height: 1.7;  
+}  
+h4 {  
+  font-weight: 600;  
+}  
+h6 span{  
+  padding: 0 20px;  
+  text-transform: uppercase;  
+  font-weight: 700;  
 }
