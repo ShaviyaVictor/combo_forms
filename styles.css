@@ -172,9 +172,22 @@ h6 span {
  .form-style:focus,  
  .form-style:active {  
   border: none;  
-  outline:auto;  
+  outline:none;  
   box-shadow: 0 4px 8px 0 rgba(21,21,21,.2);  
- }
+}
+/* input icon styles */
+.input-icon {  
+  position: absolute;  
+  top: 0;  
+  left: 12px;  
+  height: 48px;  
+  font-size: 24px;  
+  line-height: 48px;  
+  text-align: left;  
+  color: #ffeba7;  
+  -webkit-transition: all 200ms linear;  
+   transition: all 200ms linear;  
+}
 
 
 
