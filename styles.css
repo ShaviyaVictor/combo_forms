@@ -125,4 +125,10 @@ h6 span {
   -o-backface-visibility: hidden;  
   backface-visibility: hidden;  
 }
+/* style for rotating the back card form backwards in 3D visuals */
+.card-back {  
+  transform: rotateY(180deg);  
+}
+
+
 
