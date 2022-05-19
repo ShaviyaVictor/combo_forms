@@ -1,6 +1,8 @@
 # combo_forms
 Registration and login forms combined.
-![Demo of the combined form]()
+![Registration form screenshot]()              
+![Login form screenshot]()            
+![Mobile screenshot]()                
 
 ## Built With
 
@@ -25,4 +27,4 @@ This project is licensed under the [MIT License](https://github.com/ShaviyaVicto
     - [Twitter](https://twitter.com/ShaviyaVictor)
 
   
-**© Victor Shaviya**, My Personal Project.
+**© Victor Shaviya**, Practice Project.
