@@ -84,4 +84,25 @@ h6 span {
 }
 .checkbox:checked + label:before {  
   transform: translateX(44px) rotate(-270deg);  
- }
+}
+/* styles for the combined forms container */
+.card-3d-wrap {  
+  position: relative;  
+  width: 440px;  
+  max-width: 100%;  
+  height: 400px;  
+  -webkit-transform-style: preserve-3d;  
+  transform-style: preserve-3d;  
+  perspective: 800px;  
+  margin-top: 60px;  
+}
+.card-3d-wrapper {  
+  width: 100%;  
+  height: 100%;  
+  position:absolute;    
+  top: 0;  
+  left: 0;   
+  -webkit-transform-style: preserve-3d;  
+  transform-style: preserve-3d;  
+  transition: all 600ms ease-out;   
+}
