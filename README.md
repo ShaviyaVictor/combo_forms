@@ -1,8 +1,7 @@
 # combo_forms
 Registration and login forms combined.            
-<img src="https://github.com/ShaviyaVictor/combo_forms/blob/main/asset/register.png" width="400" height="400">              
-<img src="https://github.com/ShaviyaVictor/combo_forms/blob/main/asset/login.png" width="400" height="400">                       
-<img src="https://github.com/ShaviyaVictor/combo_forms/blob/main/asset/RegisterMobile.jpeg" width="250" height="350"> <img src="https://github.com/ShaviyaVictor/combo_forms/blob/main/asset/LoginMobile.jpeg" width="250" height="350">             
+<img src="https://github.com/ShaviyaVictor/combo_forms/blob/main/asset/register.png" width="400" height="400"> <img src="https://github.com/ShaviyaVictor/combo_forms/blob/main/asset/login.png" width="400" height="400">                       
+<img src="https://github.com/ShaviyaVictor/combo_forms/blob/main/asset/RegisterMobile.jpeg" width="300" height="600"> <img src="https://github.com/ShaviyaVictor/combo_forms/blob/main/asset/LoginMobile.jpeg" width="300" height="600">             
 
 ## Built With
 
