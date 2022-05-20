@@ -2,7 +2,7 @@
 Registration and login forms combined.            
 ![Registration form screenshot](https://github.com/ShaviyaVictor/combo_forms/blob/main/asset/register.png)              
 ![Login form screenshot](https://github.com/ShaviyaVictor/combo_forms/blob/main/asset/login.png)            
-![Mobile screenshot]()                
+![RegisterMobile screenshot]() ![LoginMobile screenshot]()               
 
 ## Built With
 
